@@ -1,9 +1,7 @@
 📽️ Movie Streaming Website
 This project is a Final Report for the IT Internship 2 course at Dai Nam University, focusing on designing and developing an online movie streaming website with a modern and user-friendly interface.
-
 📌 Project Description
 The website provides a platform for users to search, discover, and watch movies online. It is built with modern web technologies to ensure high performance and an excellent user experience.
-
 🚀 Key Features
 🔍 Movie search by genre, director, actor, or keywords.
 🎬 Watch movies online in high quality.
